@@ -16,3 +16,5 @@
 .article-body th,.article-body td{border:1px solid #ddd;padding:10px}
 .article-return{display:inline-block;margin-bottom:28px}
 @media(max-width:600px){.article-layout{padding:35px 18px 60px}.brand img{height:45px;width:45px}}
+
+.footer-brand{display:flex;align-items:center;gap:15px}.footer-brand img{width:64px;height:64px;border-radius:50%;object-fit:contain;background:white}.footer-brand p{margin:4px 0 0}.footer-brand strong{font-size:15px}@media(max-width:600px){.footer-brand img{width:54px;height:54px}.footer-brand{align-items:flex-start}}
