@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add the verified deployed domain to enable a sitemap reference.
